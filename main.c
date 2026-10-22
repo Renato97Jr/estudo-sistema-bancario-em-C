@@ -70,6 +70,10 @@ int main(){
 
         }
     } while (opcao !=4);
+
+    printf("\n==================================\n");
+    printf(" Sessao encerrada com sucesso.\n");
+    printf("=====================================\n");
  
     return 0;
 }
